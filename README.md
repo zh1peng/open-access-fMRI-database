@@ -1,4 +1,5 @@
 # open-access-fMRI-database
+# wait to investigate
 info collected online
 
 1、1000 Functional Connectomes Project - 1200+ ‘resting state’ functional MRI datasets
